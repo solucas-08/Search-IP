@@ -6,7 +6,7 @@
 
 Este projeto foi desenvolvido em **JavaScript** com o objetivo de comparar o desempenho entre **busca linear** e **busca binária** aplicadas a uma lista de IPs suspeitos.
 
-O programa permite:
+O programa:
 
 - ✅ Valida se o formato de um IP digitado é válido  
 - ✅ Ordena a lista de IPs  
